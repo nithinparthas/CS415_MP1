@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/IMG_RedSquare_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/IMG_BlueSquare_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/IMG_BlackSquareDark_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/IMG_BlackSquare_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_Health.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_Score.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/TMDecorationsPack1/Decorations/blueprints/KitchenWare/BP_BeerMug01.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_BeerMug01.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/apple_Blueprint.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy_Blueprint.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/TMDecorationsPack1/Levels/Overview.umap",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/pizza-box-raw-photogrammetry-scan/textures/tex_u1_v1.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/teddy-bears/textures/Watermarked_normal.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/teddy-bears/source/bears.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/bears_bear_002_PhysicsAsset.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/bears_bear_002_PhysicsAsset.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/bears_bear_002_Skeleton.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/apple.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/IMG_BlackSquareDark_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/IMG_BlackSquare_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/IMG_BlueSquare_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/IMG_RedSquare_Flat.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_Main.uasset",
+				"/Users/nithinparthasarathy/Downloads/InfiniteMatrixStarter/Content/TMDecorationsPack1/Decorations/meshes/KitchenWare/BeerMug01/SM_BeerMug01.uasset"
+			]
+		}
+	]
+}
